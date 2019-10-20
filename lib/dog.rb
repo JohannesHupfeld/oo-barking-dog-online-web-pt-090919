@@ -8,4 +8,5 @@ fido.name
  
 fido.bark
 woof!
+end
 # => nil
